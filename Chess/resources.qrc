@@ -1,0 +1,16 @@
+<RCC>
+    <qresource>
+        <file>bbishop.png</file>
+        <file>wbishop.png</file>
+        <file>bknight.png</file>
+        <file>wknight.png</file>
+        <file>bking.png</file>
+        <file>wking.png</file>
+        <file>bpawn.png</file>
+        <file>wpawn.png</file>
+        <file>bqueen.png</file>
+        <file>wqueen.png</file>
+        <file>brook.png</file>
+        <file>wrook.png</file>
+    </qresource>
+</RCC>
